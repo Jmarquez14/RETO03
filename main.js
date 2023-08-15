@@ -29,8 +29,8 @@ tarea1.addEventListener('click', ()=>{
     if(tarea1.checked){
         tarea.style.textDecoration = 'line-through' 
         alert('Bien '+ campoTxt.value+ ', completaste la tarea 1 y te levantaste.')
-        
-    }else{
+    }
+    else{
         tarea.style.textDecoration = 'none'
     }
     
