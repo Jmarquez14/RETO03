@@ -23,7 +23,7 @@ let tarea7 = document.getElementById('tarea7')
 let tarea8 = document.getElementById('tarea8')
 let tarea9 = document.getElementById('tarea9')
 let tarea10 = document.getElementById('tarea10')
-let tareatxt2 = document.getElementById('tarea2')
+
 
 tarea1.addEventListener('click', ()=>{
     if(tarea1.checked){
