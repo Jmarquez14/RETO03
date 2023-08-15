@@ -1,0 +1,49 @@
+body{
+    background: url(images/lago-de-poligonos-al-atardecer-minimalista_1920x1200_xtrafondos.com.jpg);
+    
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+    
+}
+.Nombre1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+section{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.Nombre1{
+    padding-bottom: 25px;
+
+}
+.listadoDeTareas{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    border: 1px solid black;
+    font-family: 'Nunito Sans', sans-serif;
+    border-radius: 10px;
+    
+    
+}
+ul{
+    list-style: none;
+}
+
